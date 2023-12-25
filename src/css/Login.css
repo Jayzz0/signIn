@@ -1,0 +1,31 @@
+.login-container {
+    margin-top: 50px;
+  }
+  
+  .login-button {
+    background-color: #00cc00;
+    color: #fff;
+    border: none;
+    margin-top: 10px;
+    width: 100%;
+  }
+  
+  .google-login-button {
+    background-color: #dd4b39;
+    color: #fff;
+    border: none;
+    margin-top: 10px;
+    width: 100%;
+  }
+  .facebook-login-button{
+    background-color: #0066ff;
+    color: #fff;
+    border: none;
+    margin-top: 10px;
+    width: 100%;
+  }
+  
+  .google-icon {
+    margin-right: 10px;
+  }
+  
